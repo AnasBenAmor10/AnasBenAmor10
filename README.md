@@ -13,8 +13,8 @@ Currently, I'm seeking a 6-month internship to apply my skills in AI, machine le
 Feel free to explore my projects and repositories to see what I’ve been working on!
 ---
 
-# 🌐 Socials:
-- [LinkedIn](https://www.linkedin.com/in/anas-ben-amor-115603247/)  
+# 🌐 **Socials**:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-profil-linkedin/)
 
 ---
 
