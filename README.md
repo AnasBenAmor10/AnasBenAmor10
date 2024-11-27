@@ -67,6 +67,6 @@ Feel free to explore my projects and repositories to see what I’ve been workin
 # 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnasBenAmor10&show_icons=true&theme=radical&hide_title=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasBenAmor10&layout=compact&theme=radical)
 
 
