@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there! 👋
-I'm Anas Ben Amor, a Data Engineer at Talan Tunisie and and a graduate of SUP'COM (Higher School of Communication of Tunis), specializing in Data Engineering and DevOps. I'm passionate about Generative AI, Data Engineering, and leveraging DevOps tools.
+I'm Anas Ben Amor, a Data Consultant at Talan Tunisie and and a graduate of SUP'COM (Higher School of Communication of Tunis), specializing in Data Engineering and DevOps. I'm passionate about Generative AI, Data Engineering, and leveraging DevOps tools.
 
 Below is a snapshot of my expertise:
 
